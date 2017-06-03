@@ -107,6 +107,7 @@ a:hover {
 
 .box-work{
 	justify-content: space-around;
+	align-items: center;
 	flex-wrap: wrap;
 	
 }
